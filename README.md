@@ -47,3 +47,85 @@ A modern, intuitive GUI for ADB, built with Python and [CustomTkinter](https://g
 
 ```bash
 pip install customtkinter
+```
+
+### Run the app
+
+```bash
+python adb_control_center.py
+```
+
+✅ Tip: You can also create a .bat file for easier launching on Windows.
+
+---
+
+## 📱 How to Enable ADB on Your Phone
+
+1. **Enable Developer Mode**
+
+    Go to Settings > About phone  
+    Tap Build number 7 times until you see “You are now a developer”
+
+2. **Enable USB Debugging**
+
+    Go to Settings > System > Developer options  
+    Enable USB debugging
+
+3. **(Optional) Connect via Wi-Fi**
+
+    Connect the phone via USB first  
+    Open ADB Control Center and use the Wi-Fi Connect tab  
+    Enter the IP address (found in Wi-Fi settings) and click Connect
+
+4. **Authorize your PC**
+
+    When prompted on your phone:  
+    “Allow USB debugging for this computer?”  
+    → Tap Allow (and optionally check "Always allow")
+
+---
+
+## 📁 Project Structure (example)
+
+```
+adb_control_center/
+├── adb_control_center.py
+├── assets/
+│   └── icons/
+├── README.md
+└── requirements.txt
+```
+
+---
+
+## 📸 Screenshots
+
+[https://i.imgur.com/UAJzzQy.png
+](https://imgur.com/a/aRr6zv2)
+---
+
+## 🧩 Built With
+
+- 🐍 Python
+- 🎨 CustomTkinter
+- 📡 ADB (Android Debug Bridge)
+
+---
+
+## 📃 License
+
+This project is licensed under the MIT License.  
+Feel free to use, modify, and share it.
+
+---
+
+## 📥 Download
+
+🔗 [Insert your GitHub release link or ZIP download here]
+
+---
+
+## 🙌 Contributions
+
+Pull requests, suggestions and improvements are welcome!  
+Feel free to fork the repo and contribute 🤝
