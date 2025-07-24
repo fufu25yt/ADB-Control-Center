@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/github/license/ton-repo/adb-control-center)
+![logo](https://imgur.com/4MFhRgp)
+
 # 📱 ADB Control Center
 
 **Fully control your Android device from your PC — without touching the terminal.**  
