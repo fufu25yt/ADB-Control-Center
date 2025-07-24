@@ -121,7 +121,7 @@ Feel free to use, modify, and share it.
 
 ## 📥 Download
 
-🔗 [Insert your GitHub release link or ZIP download here]
+🔗 https://github.com/fufu25yt/ADB-Control-Center/releases/tag/adb
 
 ---
 
